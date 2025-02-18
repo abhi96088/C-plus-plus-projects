@@ -1,0 +1,60 @@
+What is the capital of France?
+Paris
+London
+Berlin
+Madrid
+A
+Which planet is known as the Red Planet?
+Earth
+Mars
+Jupiter
+Venus
+B
+Who developed the C++ programming language?
+Dennis Ritchie
+Bjarne Stroustrup
+James Gosling
+Guido van Rossum
+B
+What is 5 + 7?
+10
+11
+12
+13
+C
+Which of these is a prime number?
+4
+6
+9
+7
+D
+What is the largest ocean on Earth?
+Atlantic Ocean
+Indian Ocean
+Arctic Ocean
+Pacific Ocean
+D
+Which programming language is used for Android app development?
+Swift
+Kotlin
+JavaScript
+Ruby
+B
+What does HTML stand for?
+Hyper Text Markup Language
+High Tech Modern Language
+Hyperlink and Text Marking Language
+Home Tool Markup Language
+A
+Which country is known as the Land of the Rising Sun?
+India
+China
+Japan
+South Korea
+C
+What is the square root of 64?
+6
+7
+8
+9
+C
