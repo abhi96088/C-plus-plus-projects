@@ -95,6 +95,29 @@ A classic **Rock, Paper, Scissors** game where you play against the computer!
 
 ---
 
+## 📸 Screenshots
+
+### 🧮 Calculator
+<img src="Screenshots/calculator_1.png" width="350" height="400"> <img src="Screenshots/calculator_2.png" width="450" height="400">
+
+### 📋 To-Do List
+<img src="Screenshots/todo.png" width="300" height="400">
+
+### 📝 Notes App
+<img src="Screenshots/notes.png" width="400" height="400">
+
+### ❓ Quiz Application
+<img src="Screenshots/quiz_1.png" width="300" height="400"> <img src="Screenshots/quiz_2.png" width="300" height="400"> <img src="Screenshots/quiz_3.png" width="400" height="400">
+
+### 🎓 Student Management System
+<img src="Screenshots/students_1.png" width="300" height="450"> <img src="Screenshots/students_2.png" width="300" height="450"> <img src="Screenshots/students_3.png" width="300" height="450">
+
+### ✊🖐✌ Rock, Paper, Scissors
+<img src="Screenshots/rock_paper_scissors.png" width="750" height="400">
+
+
+---
+
 ## 🛠 Installation & Usage
 1. Clone this repository:  
    ```sh
